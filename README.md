@@ -79,6 +79,10 @@ Public dataset link: [Kaggle – American Sign Language Dataset](https://www.kag
 - Jasmine Hanjra  
 
 ---
+## 📂 Documentation
+- [Project Proposal](docs/Project_Proposal.pdf)  
+- [Final Presentation](docs/Final_Presentation.pdf)  
+
 
 ## 📚 References
 - Kaggle Dataset: [American Sign Language (ASL)](https://www.kaggle.com/datasets/alhasangamalmahmoud/american-sign-language-asl)  
