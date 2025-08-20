@@ -79,6 +79,9 @@ Public dataset link: [Kaggle – American Sign Language Dataset](https://www.kag
 - Jasmine Hanjra  
 
 ---
+##License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## 📂 Documentation
 Can be found under docs
 - [Project Proposal]
