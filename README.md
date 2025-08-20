@@ -80,8 +80,9 @@ Public dataset link: [Kaggle – American Sign Language Dataset](https://www.kag
 
 ---
 ## 📂 Documentation
-- [Project Proposal](docs/Project_Proposal.pdf)  
-- [Final Presentation](docs/Final_Presentation.pdf)  
+Can be found under docs
+- [Project Proposal]
+- [Final Presentation]
 
 
 ## 📚 References
